@@ -1,0 +1,7 @@
+{
+  "artifact_type": "PrismReleaseChannelPlaceholder",
+  "channel": "beta",
+  "status": "NO_PUBLIC_INSTALLER_YET",
+  "message": "Owner release authorization required before a signed PrismReleaseManifest is published here.",
+  "product_id": "prism-windows-nsis"
+}
